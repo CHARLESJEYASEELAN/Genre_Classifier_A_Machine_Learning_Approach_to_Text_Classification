@@ -13,7 +13,7 @@ Explore the detailed workflow, dataset, and code to replicate or extend this stu
 
 Below is the visual representation of the workflow for this project:
 
-![Workflow Diagram](path_to_image/genre_classifier_workflow.png)
+![Workflow Diagram](Workflow.PNG)
 
 ## Explanation of the Workflow
 
